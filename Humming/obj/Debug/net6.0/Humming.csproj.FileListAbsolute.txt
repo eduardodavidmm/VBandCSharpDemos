@@ -1,0 +1,15 @@
+C:\Users\emald\Documents\Github\VBandCSharpDemos\Humming\bin\Debug\net6.0\Humming.exe
+C:\Users\emald\Documents\Github\VBandCSharpDemos\Humming\bin\Debug\net6.0\Humming.deps.json
+C:\Users\emald\Documents\Github\VBandCSharpDemos\Humming\bin\Debug\net6.0\Humming.runtimeconfig.json
+C:\Users\emald\Documents\Github\VBandCSharpDemos\Humming\bin\Debug\net6.0\Humming.dll
+C:\Users\emald\Documents\Github\VBandCSharpDemos\Humming\bin\Debug\net6.0\Humming.pdb
+C:\Users\emald\Documents\Github\VBandCSharpDemos\Humming\obj\Debug\net6.0\Humming.csproj.AssemblyReference.cache
+C:\Users\emald\Documents\Github\VBandCSharpDemos\Humming\obj\Debug\net6.0\Humming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emald\Documents\Github\VBandCSharpDemos\Humming\obj\Debug\net6.0\Humming.AssemblyInfoInputs.cache
+C:\Users\emald\Documents\Github\VBandCSharpDemos\Humming\obj\Debug\net6.0\Humming.AssemblyInfo.cs
+C:\Users\emald\Documents\Github\VBandCSharpDemos\Humming\obj\Debug\net6.0\Humming.csproj.CoreCompileInputs.cache
+C:\Users\emald\Documents\Github\VBandCSharpDemos\Humming\obj\Debug\net6.0\Humming.dll
+C:\Users\emald\Documents\Github\VBandCSharpDemos\Humming\obj\Debug\net6.0\refint\Humming.dll
+C:\Users\emald\Documents\Github\VBandCSharpDemos\Humming\obj\Debug\net6.0\Humming.pdb
+C:\Users\emald\Documents\Github\VBandCSharpDemos\Humming\obj\Debug\net6.0\Humming.genruntimeconfig.cache
+C:\Users\emald\Documents\Github\VBandCSharpDemos\Humming\obj\Debug\net6.0\ref\Humming.dll
